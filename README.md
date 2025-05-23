@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Adam 👋</h1>
 <h3 align="center">Software Engineer | Game Developer |📍 Perth, WA, Australia</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN STACK (MongoDB, Express, React, NodeJs**
 
 - 📫 How to reach me **📧 adamdabre23@gmail.com** https://adamdabre.github.io/React-Portfolio/
 
