@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **📧 adamdabre23@gmail.com**
+- 📫 How to reach me **📧 adamdabre23@gmail.com** https://adamdabre.github.io/React-Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
